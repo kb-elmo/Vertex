@@ -12,7 +12,7 @@
 
 ### Supported layouts
 
-<img src="https://i.imgur.com/7rFkAcT.png" alt="layout1"/>
+<img src="https://i.imgur.com/1cLPFWv.png" alt="layout1"/>
 
 The two different lengths spacebars can be swapped.
 
