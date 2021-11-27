@@ -1,6 +1,6 @@
 Comment,Designator,Footprint,LCSC
 "10uF","C1","Capacitor_SMD:C_0805_2012Metric","C91245"
-"0.1uF","C2,C3,C7,C8","Capacitor_SMD:C_0805_2012Metric","C49678"
+"0.1uF","C2,C3","Capacitor_SMD:C_0805_2012Metric","C49678"
 "22pF","C4,C5","Capacitor_SMD:C_0805_2012Metric","C1804"
 "1uF","C6","Capacitor_SMD:C_0805_2012Metric","C28323"
 "D_Small","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24","custom_parts:D_SOT-23_ANK_norm","C68978"
@@ -14,9 +14,8 @@ Comment,Designator,Footprint,LCSC
 "MX-NoLED","MX60","MX_Only:MXOnly-2U-NoLED",""
 "5.1k","R1,R2","Resistor_SMD:R_0805_2012Metric","C27834"
 "22","R3,R4","Resistor_SMD:R_0805_2012Metric","C17561"
-"10k","R5,R6,R7,R8","Resistor_SMD:R_0805_2012Metric","C17414"
+"10k","R5,R6","Resistor_SMD:R_0805_2012Metric","C17414"
 "SW_Push","RESET1","Button_Switch_SMD:SW_SPST_TL3342","C318884"
-"Rotary_Encoder_Switch","ROT1","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
 "ATmega32U2-AU","U1","Package_QFP:TQFP-32_7x7mm_P0.8mm","C618733"
 "SRV05-4","U2","Package_TO_SOT_SMD:SOT-23-6","C85364"
 "USB_C_Receptacle_USB2.0","USB1","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","C165948"
