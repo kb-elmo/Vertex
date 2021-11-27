@@ -4,7 +4,9 @@
 
 They are not suitable for CNC machining and trying to use them for that will most likely result in failure of the parts.
 
-For assembly you need 4x m2.5x4mm screws for the case and 8x 2mm thick foam strips for the "gaskets" to mount the plate.
+For assembly you need 4x m2x10mm screws for the case and 8x m2x8mm screws to mount the plate.  
+The three pieces that make the bottom half of the case have tabs for glueing them together.  
+It's not strictly necessary to do this but it helps with the overall rigidity of the case assembly.
 
 ---
 
