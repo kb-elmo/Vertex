@@ -6,6 +6,9 @@
 
 <img src="https://i.imgur.com/drRZO54.jpg" alt="header" width="800"/>
 
+### This design has some flaws!
+#### Use at your own risk
+
 ---
 
 [STEP files for the case](case/)
